@@ -6,14 +6,14 @@
 <p align="center">  
 <img width="859" alt="image" src="https://user-images.githubusercontent.com/92162945/208500196-9075c65c-1e4f-476b-9dac-2f59bcfabc15.png">
 <h3 align="left">🌟About Me</h3><hr/>
-💡I'm Web Developer and I enjoy taking complex problems and turning them into simple designs using my coding skills. 
+<b>💡I'm Web Developer and I enjoy taking complex problems and turning them into simple designs using my coding skills. 
 <br>👯 I’m looking to collaborate on  different open-source projects:)
 <br>🌱 Currently Working on Problem Solving Skills in DSA & exploring MERN Stack.<br>
 <p> 🔹Visit my Portfolio : <a href="https://nikamkhushi.netlify.app/">https://nikamkhushi.netlify.app/</a><br/>
-<hr/>
+<hr/><b/>
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/khushi-nikam-2727491b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-nikam-2727491b3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushi-nikam-2727491b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-nikam-2727491b3/" height="30" width="40" /></a>
 <a href="https://instagram.com/_._khushi89_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._khushi89_._" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushi_893" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_893" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushi03_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushi03_it" height="30" width="40" /></a>
