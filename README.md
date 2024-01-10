@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/khushi_893" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_893" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushi03_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushi03_it" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saeen893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saeen893" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/niamkhushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikamkhushi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nikamkhushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikamkhushi" height="30" width="40" /></a>
 </p>
 <br/>
 
