@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=KhushiN893&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhushiN893&theme=dark&hide_border=false)<br/><br/>
+![](https://streak-stats.demolab.com?user=KhushiN893&theme=gotham&hide_border=true&mode=weekl)<br/><br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiN893&theme=tokyonight&hide=scss,Html,Ruby,Hack,css,C,Shell)
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KhushiN893&theme=discord&no-frame=false&no-bg=true&margin-w=4)
